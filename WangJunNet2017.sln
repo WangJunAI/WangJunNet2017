@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHandler", "WebHandler\WebHandler.csproj", "{8E12B841-F01D-4754-B5C4-60F071164D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHandler.测试", "WebHandler.测试\WebHandler.测试.csproj", "{FC78C90B-95C5-4DD2-9844-017721492E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E12B841-F01D-4754-B5C4-60F071164D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E12B841-F01D-4754-B5C4-60F071164D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E12B841-F01D-4754-B5C4-60F071164D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E12B841-F01D-4754-B5C4-60F071164D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC78C90B-95C5-4DD2-9844-017721492E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC78C90B-95C5-4DD2-9844-017721492E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC78C90B-95C5-4DD2-9844-017721492E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC78C90B-95C5-4DD2-9844-017721492E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
